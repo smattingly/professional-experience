@@ -4,7 +4,6 @@ While you finish up technical training topics at your own pace, you and your new
 
 - [ ] [Read your job description](https://github.com/dewv/procedures/blob/master/personnel/jobDescriptionSpecialist.md)
 - [ ] Understand your responsibilities related to the [performance evaluation process](https://github.com/dewv/procedures/blob/master/personnel/performanceEvaluationProcess.md)
-- [ ] Learn how to participate in [stand up meetings](https://github.com/dewv/procedures/blob/master/standUpMeetings.md)
 - [ ] Learn to [work with a manager](./workingWithAManager.md)
 - [ ] Learn to [track your tasks and work time](./trackingYourTasksAndWorkTime.md)
 - [ ] [Learn Test-Driven Development](./learnTDD.md)
