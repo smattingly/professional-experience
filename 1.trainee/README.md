@@ -19,4 +19,3 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Learn JavaScript](./learnJavaScript.md)
 - [ ] [Learn jQuery](./learnJQuery.md)
 - [ ] [Learn SQL](./learnSQL.md)
-- [ ] [Learn Node.js](./learnNode.md)
