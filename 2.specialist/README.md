@@ -6,7 +6,6 @@ While you finish up technical training topics at your own pace, you and your new
 - [ ] Understand your responsibilities related to the [performance evaluation process](https://github.com/dewv/procedures/blob/master/personnel/performanceEvaluationProcess.md)
 - [ ] Learn to [work with a manager](./workingWithAManager.md)
 - [ ] Learn to [track your tasks and work time](./trackingYourTasksAndWorkTime.md)
-- [ ] [Learn to use `git` branches](https://github.com/dewv/procedures/blob/master/git/workingBranch.md)
 - [ ] Practice your new job: start handling events in the [work loop](https://github.com/dewv/procedures/blob/master/workLoop.md)
 
 When all of the above are complete, consult the CEO. With CEO approval, you may then:
