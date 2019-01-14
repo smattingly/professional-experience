@@ -17,5 +17,4 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Learn HTML](./learnHTML.md)
 - [ ] [Learn CSS](./learnCSS.md)
 - [ ] [Learn JavaScript](./learnJavaScript.md)
-- [ ] [Learn jQuery](./learnJQuery.md)
 - [ ] [Learn SQL](./learnSQL.md)
