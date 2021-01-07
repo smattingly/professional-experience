@@ -24,7 +24,7 @@ The same ideas can be expressed as a set of values and priorities. This form is 
 
 Your initial training covers the knowledge you will need to get started. These activities are defined in the `1.trainee` folder of this repo. You will complete the first part of these activities on a fixed schedule with your teammates; the remainder you will work at your own pace.
 
-Fixed schedule teamwork continues with the tasks in the `2.specialist` folder. These activities provide guidance on the specific responsibilities of the Information Systems Specialist role, and let you practice the related work processes in a team setting. When ready, you will be formally promoted to the title of IS Specialist-- a full-fledged member of the technical staff.
+While you are finishing those activities at your own pace, fixed schedule teamwork continues with the tasks in the `2.specialist` folder. These activities provide guidance on the specific responsibilities of the Information Systems Specialist role, and let you practice the related work processes in a team setting. When ready, you will be formally promoted to the title of IS Specialist-- a full-fledged member of the technical staff.
 
 If you enjoy the role of Information Systems Specialist, you may repeat CSCI 290 for elective credit in the major. Alternatively, you may request permission to enroll in CSCI 390; this involves an application for promotion to Information Systems Manager. The manager role has a different set of specific responsibilities. The `3.manager` folder in this repo provides guidance for filling this role.
 
