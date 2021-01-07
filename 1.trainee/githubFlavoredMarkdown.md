@@ -12,7 +12,7 @@ Like many tools used by computing professionals, GitHub includes features for wo
 
 For example, this file and most other English documents that you find in GH repos is Markdown stored in a file with the `.md` extension. If you like, you can experiment by editing this file online at GitHub. 
 
-For longer documents, it is sometimes nice to have a WYSIWYG interface more like a traditional word processor. Many tools, including the Cloud9 IDE, allow you to put a text editor side-by-side with a preview pane that renders Markdown.
+For longer documents, it is sometimes nice to have a WYSIWYG interface more like a traditional word processor. Many tools, including our programming environment, allow you to put a text editor side-by-side with a preview pane that renders Markdown.
 
 Even better is the native application [Typora](http://typora.io/). It provides a true single-pane WYSIWYG interface on Windows, Mac, and Linux. It is free at the time of this writing.
 
