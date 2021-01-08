@@ -9,7 +9,7 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
 - [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
 - [ ] [Personal leave policy](./personalLeavePolicy.md)
-- [ ] [Sign the FERPA form](./signFERPA.md)
+- [ ] [Sign the FERPA agreement](./signFERPA.md)
 - [ ] [Maintain a high standard of professional ethics](./ethics.md)
 
 ## Technical training
@@ -17,6 +17,5 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Learn HTML](./learnHTML.md)
 - [ ] [Learn CSS](./learnCSS.md)
 - [ ] [Learn JavaScript](./learnJavaScript.md)
-- [ ] [Learn SQL](./learnSQL.md)
 - [ ] Read about the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern
 - [ ] Read about conventions for [REST](http://microformats.org/wiki/rest/urls) requests
