@@ -5,7 +5,7 @@ While you finish up technical training topics at your own pace, you and your new
 - [ ] [Read your job description](./jobDescriptionSpecialist.md)
 - [ ] Learn how we handle the proactive work of [recurring operations tasks](https://github.com/dewv/ops/blob/master/recurringTasks.md)
 - [ ] Learn how we handle reactive operations work with an [on call rotation](https://github.com/dewv/ops/blob/master/onCallRotation.md).
-- [ ] Learn how we advance what we have in operation through [project and development tasks](https://github.com/dewv/procedures/blob/master/tasks.md#2-development).
+- [ ] Learn how we advance what we have in operation through [project and development tasks](./developmentTasks.md).
 - [ ] [Protect](https://help.github.com/en/github/administering-a-repository/about-protected-branches) the master branch of this repository, so that future changes are reviewed as Pull Requests
 - [ ] Update your personal goals according to the [performance evaluation process](https://github.com/dewv/procedures/blob/master/personnel/performanceEvaluationProcess.md)
 
