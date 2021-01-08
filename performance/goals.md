@@ -1,8 +1,8 @@
 # Professional Development Goals
 
-For instructions, see []().
+For instructions, see [here](./performanceEvaluation.md).
 
-## Monday 14 Jan 2019
+## Monday 11 Jan 2021
 
 For the next two weeks, I will pursue the following professional growth goals.
 - Complete the onboarding process to earn promotion from trainee to Information Systems Specialist.
