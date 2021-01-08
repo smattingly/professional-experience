@@ -1,6 +1,6 @@
 # Professional Development Goals
 
-For instructions, see [here](./performanceEvaluation.md).
+For instructions, see [here](../2.specialist/performanceEvaluation.md).
 
 ## Monday 11 Jan 2021
 
