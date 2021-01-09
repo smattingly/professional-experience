@@ -16,7 +16,7 @@ jobs:
       - name: issue-bot
         uses: imjohnbo/issue-bot@v2
         with:
-          assignees: ${{ github.repository_owner }}
+          assignees: ${{ github.actor }}
           labels: "Performance Evaluation"
           pinned: false
           close-previous: false
