@@ -16,12 +16,11 @@ jobs:
       - name: issue-bot
         uses: imjohnbo/issue-bot@v2
         with:
-          assignees: ""
-          body: ${{ github.repository_owner }}
+          assignees: ${{ github.repository_owner }}
           labels: "Performance Evaluation"
           pinned: false
           close-previous: false
           title: "Performance Evaluation" 
-         # template: ".github/perfeval_issue_template.md"
+          template: ".github/perfeval_issue_template.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
