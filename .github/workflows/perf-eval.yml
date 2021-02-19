@@ -3,8 +3,7 @@ name: Performance Evaluation Recurring Task
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 31 2 *"
-    # - cron: "0 0 1,14 * *"
+    - cron: "0 0 1,14 * *"
     
 jobs:
   create-issue:
